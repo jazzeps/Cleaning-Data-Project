@@ -96,8 +96,7 @@ Specifically, I performed the following modifications:
 To finish off this step, I moved the activity column from last to second, so that it would
 be easier to see the subject/activity combinations as I finished the analysis
 
-#### **5. From the data set in step 4, creates a second, independent tidy data set with**
-#### **the average of each variable for each activity and each subject**
+#### **5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject**
 
 This was another subjective step, as mentioned in the "David Project FAQ" post above, as
 "tidy data" can mean different things, especially from a wide vs long persepctive. Before
