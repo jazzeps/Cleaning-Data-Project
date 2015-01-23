@@ -38,6 +38,7 @@ acceleration.
 - Features are normalized and bounded within [-1,1].
 
 **Feature Selection**
+
 The features selected for this database come from the accelerometer and gyroscope 3-axial 
 raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals (prefix 't' to denote time) 
 were captured at a constant rate of 50 Hz. Then they were filtered using a median filter 
